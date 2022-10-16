@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Damirka\source\repos\LW3.3\LW3.3\Source.c(44,18): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Damirka\source\repos\LW3.3\LW3.3\Source.c(4,42): warning C4101: chislo1: неиспользованная локальная переменная
+C:\Users\Damirka\source\repos\LW3.3\LW3.3\Source.c(4,51): warning C4101: chislo2: неиспользованная локальная переменная
+  LW3.3.vcxproj -> C:\Users\Damirka\source\repos\LW3.3\x64\Debug\LW3.3.exe

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Damirka\source\repos\LW2.1\LW2.1\Source.c(16,9): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\Damirka\source\repos\LW2.1\LW2.1\Source.c(16,9): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\Damirka\source\repos\LW2.1\LW2.1\Source.c(16,9): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+  LW2.1.vcxproj -> C:\Users\Damirka\source\repos\LW2.1\x64\Debug\LW2.1.exe
