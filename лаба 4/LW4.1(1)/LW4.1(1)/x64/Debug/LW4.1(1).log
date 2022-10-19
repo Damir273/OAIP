@@ -1,7 +1,0 @@
-﻿  Source.c
-C:\Users\Damirka\source\repos\LW4.1(1)\LW4.1(1)\Source.c(16,3): warning C4013: memmove: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Damirka\source\repos\LW4.1(1)\LW4.1(1)\Source.c(18,18): warning C4098: del_even: функция типа "void", возвращающая значение
-C:\Users\Damirka\source\repos\LW4.1(1)\LW4.1(1)\Source.c(23,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
-C:\Users\Damirka\source\repos\LW4.1(1)\LW4.1(1)\Source.c(58,6): warning C4550: вычисление выражения дает функцию, в которой отсутствует список аргументов
-C:\Users\Damirka\source\repos\LW4.1(1)\LW4.1(1)\Source.c(24,18): warning C4101: array: неиспользованная локальная переменная
-  LW4.1(1).vcxproj -> C:\Users\Damirka\source\repos\LW4.1(1)\x64\Debug\LW4.1(1).exe
