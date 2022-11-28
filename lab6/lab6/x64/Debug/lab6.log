@@ -1,0 +1,18 @@
+﻿  Functions.c
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Functions.c(9,34): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Functions.c(9,34): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Functions.c(91,12): warning C4098: memory_allocation: функция типа "void", возвращающая значение
+  Source.c
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(9,9): warning C4013: scanf_S: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(26,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(26,19): warning C4024: input_len: различные типы для формального и фактического параметров 2
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(27,14): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(27,10): warning C4024: sort_1: различные типы для формального и фактического параметров 1
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(28,18): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(28,14): warning C4024: result_len: различные типы для формального и фактического параметров 1
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(40,4): warning C4013: rewiind: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Damirka\source\repos\лабараторные\lab6\lab6\Source.c(34,9): warning C4101: arr: неиспользованная локальная переменная
+  Создание кода...
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ scanf_S в функции main.
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ rewiind в функции main.
+C:\Users\Damirka\source\repos\лабараторные\lab6\x64\Debug\lab6.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

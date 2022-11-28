@@ -1,0 +1,10 @@
+﻿  Functions.c
+C:\Users\Damirka\source\repos\ds\l5\l5\Functions.c(9,17): warning C4477: "scanf_s": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "int **"
+C:\Users\Damirka\source\repos\ds\l5\l5\Functions.c(29,73): warning C4047: !=: "int (__cdecl *)(void)" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\ds\l5\l5\Functions.c(78,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Source.c
+C:\Users\Damirka\source\repos\ds\l5\l5\Source.c(11,15): warning C4047: ==: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\ds\l5\l5\Source.c(32,15): warning C4047: ==: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\Damirka\source\repos\ds\l5\l5\Source.c(55,15): warning C4047: ==: "int *" отличается по уровням косвенного обращения от "int"
+  Создание кода...
+C:\Users\Damirka\source\repos\ds\l5\l5\Source.c(9): error C4700: использована неинициализированная локальная переменная "task"

@@ -1,3 +1,0 @@
-﻿  Source.c
-C:\Users\Damirka\source\repos\LW4.2\LW4.2\Source.c(58,19): warning C4477: "scanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int (*)[100]"
-  LW4.2.vcxproj -> C:\Users\Damirka\source\repos\LW4.2\x64\Debug\LW4.2.exe

@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Damirka\source\repos\ds\4\4\Source.c(7,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Damirka\source\repos\ds\4\4\Source.c(19,41): warning C4554: "|": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\Damirka\source\repos\ds\4\4\Source.c(25,10): warning C4013: scnaf_s: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Damirka\source\repos\ds\4\4\Source.c(17,35): warning C4101: a: неиспользованная локальная переменная
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ scnaf_s в функции main.
+C:\Users\Damirka\source\repos\ds\4\x64\Debug\4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

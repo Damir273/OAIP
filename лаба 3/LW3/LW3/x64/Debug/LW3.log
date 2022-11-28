@@ -1,8 +1,0 @@
-﻿  Source.c
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(41,16): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(46,18): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(51,22): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(51,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(55,16): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
-C:\Users\Damirka\source\repos\LW3\LW3\Source.c(60,26): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
-  LW3.vcxproj -> C:\Users\Damirka\source\repos\LW3\x64\Debug\LW3.exe
